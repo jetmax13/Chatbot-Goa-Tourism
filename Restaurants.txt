@@ -1,0 +1,11 @@
+
+Alphius: In which area would you like to get restaurant?(Calangute/Candolim/Panaji/Margao/Sinquerim)
+
+You: Panaji
+
+Alphius: River Lounge Restaurant
+Boat Shack
+Capricorn Goa
+The Pier
+Enter the restaurant name to get rating out of 5
+

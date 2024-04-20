@@ -1,0 +1,131 @@
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)
+
+You: panaji
+
+Alphius: Novotel Nia
+Hyatt Centric
+Styles Goa
+Enter the hotel name to get price range for one night.
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)
+
+You: panaji
+
+Alphius: Novotel Nia
+Hyatt Centric
+Styles Goa
+Enter the hotel name to get price range for one night.
+
+You: styles goa
+
+Alphius: Please enter valid details
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)
+
+You: panaji
+
+Alphius: Novotel Nia
+Hyatt Centric
+Styles Goa
+Enter the hotel name to get price range for one night.
+
+You: styles goa
+
+Alphius: Please enter valid details
+
+You: Styles Goa
+
+Alphius: 4,000/- to 9,500/-
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)kkl;
+
+You: kk;
+
+Alphius: Please enter valid details
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)kkl;
+
+You: kk;
+
+Alphius: Please enter valid details
+
+You: panji
+
+Alphius: Please enter valid details
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)kkl;
+
+You: kk;
+
+Alphius: Please enter valid details
+
+You: panji
+
+Alphius: Please enter valid details
+
+You: panaji
+
+Alphius: Novotel Nia
+Hyatt Centric
+Styles Goa
+Enter the hotel name to get price range for one night.
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)kkl;
+
+You: kk;
+
+Alphius: Please enter valid details
+
+You: panji
+
+Alphius: Please enter valid details
+
+You: panaji
+
+Alphius: Novotel Nia
+Hyatt Centric
+Styles Goa
+Enter the hotel name to get price range for one night.
+
+You: styles goa
+
+Alphius: Please enter valid details
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)kkl;
+
+You: kk;
+
+Alphius: Please enter valid details
+
+You: panji
+
+Alphius: Please enter valid details
+
+You: panaji
+
+Alphius: Novotel Nia
+Hyatt Centric
+Styles Goa
+Enter the hotel name to get price range for one night.
+
+You: styles goa
+
+Alphius: Please enter valid details
+
+You: Styles Goa
+
+Alphius: 4,000/- to 9,500/-
+
+
+Alphius: In which area would you like to get hotel?(Calangute/Candolim/Panaji/Margao/Sinquerim)
+
+You: 
+

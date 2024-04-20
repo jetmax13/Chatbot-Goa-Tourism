@@ -1,0 +1,23 @@
+
+Alphius: Which mode of transport will you prefer?(Flight/Train/Bus)
+You:Train
+
+Alphius: From which junction would you like to come to Goa?(Ahmedabad,Bangalore,Kolkata,Mumbai,Delhi)
+
+
+Alphius: Which mode of transport will you prefer?(Flight/Train/Bus)
+You:Train
+
+Alphius: From which junction would you like to come to Goa?(Ahmedabad,Bangalore,Kolkata,Mumbai,Delhi)
+You:Delhi Junction
+
+Alphius: Hazarat Nizamuddin Express
+Departure: Delhi
+Destination: Madgaon
+Day: All days
+Timings: 05:00-12:05
+
+
+Alphius: Which mode of transport will you prefer?(Flight/Train/Bus)
+You:
+

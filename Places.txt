@@ -1,0 +1,96 @@
+
+Alphius: What type of destination would you like to visit?(Beach/Monument/Waterfall/Island)
+
+You: beach
+
+Alphius: Calangute Beach
+Baga Beach
+Candolim Beach
+Vagator Beach
+Anjuna Beach
+Enter the place name to get rating out of 5
+
+
+Alphius: What type of destination would you like to visit?(Beach/Monument/Waterfall/Island)
+
+You: beach
+
+Alphius: Calangute Beach
+Baga Beach
+Candolim Beach
+Vagator Beach
+Anjuna Beach
+Enter the place name to get rating out of 5
+
+You: calangute
+
+Alphius: 4.5
+
+
+Alphius: What type of destination would you like to visit?(Beach/Monument/Waterfall/Island)
+
+You: beach
+
+Alphius: Calangute Beach
+Baga Beach
+Candolim Beach
+Vagator Beach
+Anjuna Beach
+Enter the place name to get rating out of 5
+
+You: calangute
+
+Alphius: 4.5
+
+You: candolim
+
+Alphius: 4
+
+
+Alphius: What type of destination would you like to visit?(Beach/Monument/Waterfall/Island)
+
+You: beach
+
+Alphius: Calangute Beach
+Baga Beach
+Candolim Beach
+Vagator Beach
+Anjuna Beach
+Enter the place name to get rating out of 5
+
+
+Alphius: What type of destination would you like to visit?(Beach/Monument/Waterfall/Island)
+
+You: beach
+
+Alphius: Calangute Beach
+Baga Beach
+Candolim Beach
+Vagator Beach
+Anjuna Beach
+Enter the place name to get rating out of 5
+
+You: candolim 
+
+Alphius: Please enter valid details
+
+
+Alphius: What type of destination would you like to visit?(Beach/Monument/Waterfall/Island)
+
+You: beach
+
+Alphius: Calangute Beach
+Baga Beach
+Candolim Beach
+Vagator Beach
+Anjuna Beach
+Enter the place name to get rating out of 5
+
+You: candolim 
+
+Alphius: Please enter valid details
+
+You: Candolim Beach
+
+Alphius: 4
+

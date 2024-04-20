@@ -1,0 +1,12 @@
+
+
+
+Alphius: For which location you need healthcare?(Calangute/Candolim/Panaji/Margao/Sinquerim)
+You:Calangute
+
+Alphius: Hospitals Nearby:
+Bosio Hospital
+Mathew Braganza Hospital
+Shriram Hospital
+Enter the hospital name to get its Contact Info.
+
